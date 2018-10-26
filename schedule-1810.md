@@ -57,6 +57,7 @@
 32. Travis - bash editing, carpal tunnel & you
 33. Karin - Algorithmic Bias: What is it and how can we improve our code?
 ```
+34. Niraj- React-what and why? 
 
 ---
 
